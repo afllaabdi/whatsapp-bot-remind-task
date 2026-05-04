@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1777812837256,
+    "chatId": "120363027081931780@g.us",
+    "matkul": "Data Science",
+    "detail": "Olah data",
+    "deadline": "2026-05-20 21:00",
+    "status": "selesai"
+  },
+  {
+    "id": 1777813128621,
+    "chatId": "120363027081931780@g.us",
+    "matkul": "Data science",
+    "detail": "Data Bersih",
+    "deadline": "2026-05-12 23:00",
+    "status": "selesai",
+    "createdAt": "2026-05-03 19:58"
+  },
+  {
+    "id": 1777813483317,
+    "chatId": "120363027081931780@g.us",
+    "matkul": "Pemrograman web",
+    "detail": "buat web",
+    "deadline": "2026-05-12 20:00",
+    "status": "selesai",
+    "createdAt": "2026-05-03 20:04"
+  },
+  {
+    "id": 1777813494598,
+    "chatId": "120363027081931780@g.us",
+    "matkul": "Pemrograman web",
+    "detail": "buat web",
+    "deadline": "2026-05-12 20:00",
+    "status": "selesai",
+    "createdAt": "2026-05-03 20:04"
+  },
+  {
+    "id": 1777813618310,
+    "chatId": "120363027081931780@g.us",
+    "matkul": "Pemrograman web",
+    "detail": "buat web",
+    "deadline": "2026-05-12 20:00",
+    "status": "selesai",
+    "createdAt": "2026-05-03 20:06"
+  },
+  {
+    "id": 1777813624448,
+    "chatId": "120363027081931780@g.us",
+    "matkul": "Pemrograman web",
+    "detail": "buat web",
+    "deadline": "2026-05-12 20:00",
+    "status": "pending",
+    "createdAt": "2026-05-03 20:07"
+  },
+  {
+    "id": 1777813634274,
+    "chatId": "120363027081931780@g.us",
+    "matkul": "Pemrograman web",
+    "detail": "buat web",
+    "deadline": "2026-05-12 20:00",
+    "status": "pending",
+    "createdAt": "2026-05-03 20:07"
+  },
+  {
+    "id": 1777813641793,
+    "chatId": "120363027081931780@g.us",
+    "matkul": "Pemrograman web",
+    "detail": "buat web",
+    "deadline": "2026-05-12 20:01",
+    "status": "pending",
+    "createdAt": "2026-05-03 20:07"
+  },
+  {
+    "id": 1777813646278,
+    "chatId": "120363027081931780@g.us",
+    "matkul": "Pmrograman web",
+    "detail": "buat web",
+    "deadline": "2026-05-12 20:00",
+    "status": "pending",
+    "createdAt": "2026-05-03 20:07"
+  }
+]
