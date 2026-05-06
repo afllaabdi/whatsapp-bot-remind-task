@@ -1,2 +1,2 @@
 # whatsapp-bot-remind-task
-progress...
+progress...,menggunakan baileys di hp/termux
